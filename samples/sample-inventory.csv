@@ -1,0 +1,9 @@
+Hostname,Manufacturer,Model,OperatingSystem,OSVersion,LastBootTime,CPU,RAM_GB,StorageSize_GB,FreeStorageSize_GB,FreeStoragePercent,IPAddress,EnabledFirewall,DisabledFirewall,Bitlocker,BitlockerVolumeStatus,BitlockerEncryptionPercentage
+LAB-WS-001,Dell Inc.,OptiPlex 7010,Microsoft Windows 11 Pro,10.0.22631,2026-11-20 08:12:43,13th Gen Intel(R) Core(TM) i5-13500,15.72,475.92,211.47,44.43,192.0.2.11,Domain; Private; Public,,On,FullyEncrypted,100
+LAB-WS-002,HP,HP EliteDesk 800 G6 SFF,Microsoft Windows 11 Pro,10.0.26100,2026-11-18 17:34:09,Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz,31.79,476.3,139.28,29.24,192.0.2.12,Domain; Private; Public,,On,FullyEncrypted,100
+LAB-LT-003,LENOVO,ThinkPad T14 Gen 3,Microsoft Windows 11 Enterprise,10.0.26100,2026-11-22 09:03:21,12th Gen Intel(R) Core(TM) i7-1260P,15.69,953.12,622.04,65.26,192.0.2.13,Domain; Private; Public,,On,FullyEncrypted,100
+LAB-WS-004,Dell Inc.,Precision 3660 Tower,Microsoft Windows 11 Pro,10.0.22631,2026-11-17 13:55:08,13th Gen Intel(R) Core(TM) i7-13700,63.67,1862.95,1073.32,57.61,192.0.2.14,Domain; Private; Public,,Off,FullyDecrypted,0
+LAB-LT-005,HP,HP ProBook 450 G9,Microsoft Windows 11 Pro,10.0.26100,2026-11-21 07:40:15,12th Gen Intel(R) Core(TM) i5-1235U,15.74,475.86,84.19,17.69,192.0.2.15,Domain; Private,Public,On,FullyEncrypted,100
+LAB-WS-006,LENOVO,ThinkCentre M70q Gen 3,Microsoft Windows 10 Pro,10.0.19045,2026-11-19 06:18:52,12th Gen Intel(R) Core(TM) i5-12400T,7.83,237.98,36.51,15.34,192.0.2.16,Domain; Private; Public,,Off,FullyDecrypted,0
+LAB-LT-007,Dell Inc.,Latitude 5440,Microsoft Windows 11 Enterprise,10.0.26100,2026-11-23 08:47:36,13th Gen Intel(R) Core(TM) i5-1345U,15.73,476.12,320.56,67.33,192.0.2.17; 198.51.100.17,Domain; Private; Public,,On,EncryptionInProgress,74
+LAB-WS-008,HP,HP Z2 G9 Workstation,Microsoft Windows 11 Pro,10.0.22631,2026-11-16 14:29:04,13th Gen Intel(R) Core(TM) i9-13900,31.75,953.42,458.07,48.04,192.0.2.18,Domain; Private; Public,,On,FullyEncrypted,100
